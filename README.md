@@ -24,7 +24,7 @@
 - Node Package Manager
 
 ## Framework
--RxJS
+- RxJS
 
 ## Database 
 - Sequelize
