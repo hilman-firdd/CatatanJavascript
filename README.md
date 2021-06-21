@@ -1,5 +1,5 @@
 # Buku JavaScript
-![Javascript Learning Path](picture/javascript-learning.path.png)
+![Javascript Learning Path](picture/javascript-learning-path.png)
 
 
 ## Web
